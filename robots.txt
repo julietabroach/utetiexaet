@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ualoingah.tylerlevine.com/sitemap.xml
